@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for cloudsim-toolkit" enabled="true">
+        <sourceOutputDir name="classes/generated-sources/annotations" />
+        <sourceTestOutputDir name="classes/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CloudSim-AI scheduler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CloudSim-AI scheduler" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
